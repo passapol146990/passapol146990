@@ -35,7 +35,7 @@ student MSU University
   <li>Linux/Ubuntu</li>
   <li>Security Kali linux(pentester)</li>
   <li>Docker</li>
-  <li>Eginx</li>
+  <li>Nginx</li>
   <li>API/JWT Authen/2FA Login/ 2Fa Register</li>
 </div>
 
